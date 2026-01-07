@@ -8,11 +8,17 @@ theme = 'PaperMod'
     Content = "Blog cá nhân nhưng chưa viết được gì :p."
 
 [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/" # Thay bằng link Github của bạn
+    name = "discord"
+    url = "https://discord.gg/phanhungblog"
+
 [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://linkedin.com"
+    name = "telegram"
+    url = "https://t.me/phanhungblog"
+
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:phanhungdev@gmail.com"
+
 [params]
     showCodeCopyButtons = true # Hiện nút copy khi bạn viết code trong bài
     ShowToc = true # Hiện mục lục tự động cho bài viết dài

@@ -4,8 +4,8 @@ title = 'Phan Hùng Blog'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-    Title = "Chào bạn, mình là Hùng 👋"
-    Content = "Blog cá nhân nhưng chưa viết được gì :p."
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog."
 
 [[params.socialIcons]]
     name = "discord"

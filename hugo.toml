@@ -1,6 +1,6 @@
 baseURL = 'https://phanhung.blog/'
 languageCode = 'vi-vn'
-title = 'Phan Hùng Blog'
+title = '#hungphan'
 theme = 'PaperMod'
 
 [params.homeInfoParams]

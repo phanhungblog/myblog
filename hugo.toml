@@ -1,18 +1,18 @@
 baseURL = 'https://phanhung.blog/'
 languageCode = 'vi-vn'
-title = 'Hùng Dev Blog'
+title = 'Phan Hùng Blog'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
     Title = "Chào bạn, mình là Hùng 👋"
-    Content = "Blog chia sẻ về công nghệ, lập trình và những thứ hay ho mình học được mỗi ngày."
+    Content = "Blog cá nhân nhưng chưa viết được gì :p."
 
 [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/phan-hung-cua-ban" # Thay bằng link Github của bạn
+    url = "https://github.com/" # Thay bằng link Github của bạn
 [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com/in/ten-cua-ban"
+    url = "https://linkedin.com"
 [params]
     showCodeCopyButtons = true # Hiện nút copy khi bạn viết code trong bài
     ShowToc = true # Hiện mục lục tự động cho bài viết dài

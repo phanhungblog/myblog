@@ -1,4 +1,4 @@
-baseURL = 'https://phanhungblog.github.io/myblog/'
+baseURL = 'https://phanhung.blog/'
 languageCode = 'vi-vn'
 title = 'Hùng Dev Blog'
 theme = 'PaperMod'
